@@ -1,5 +1,5 @@
 // BrowserBase Configuration
-const { BrowserBase } = require('@browserbase/sdk');
+const { BrowserBase } = require('@browserbasehq/sdk');
 
 // Initialize the SDK with your API key
 const browserbase = new BrowserBase({
